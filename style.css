@@ -6,3 +6,14 @@ h2 {
   font-family: 'Montserrat', sans-serif;
 }
 
+header {
+    background-color: lightseagreen;
+}
+
+main {
+    background-color: lightcoral;
+}
+
+footer {
+    background-color: lightskyblue;
+}
